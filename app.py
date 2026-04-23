@@ -1241,8 +1241,7 @@ def main():
     """, unsafe_allow_html=True)
 
 
-if __name__ == "__main__":
-    main()
+
 
 # --------------------------------------------------------------------------
 # PAGE: MARKET INSIGHTS
@@ -1349,3 +1348,6 @@ def render_market_insights():
         </div>
     </div>
     """, unsafe_allow_html=True)
+
+if __name__ == "__main__":
+    main()
