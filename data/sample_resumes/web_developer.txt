@@ -1,0 +1,43 @@
+Priya Sharma
+Email: priya.sharma@email.com | Phone: +91-8765432109
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma
+
+PROFESSIONAL SUMMARY
+Creative and detail-oriented Full Stack Web Developer with 3+ years of experience building responsive web applications. Proficient in modern JavaScript frameworks, RESTful APIs, and cloud deployment. Strong advocate for clean code, user-centric design, and agile development practices.
+
+EXPERIENCE
+
+Full Stack Developer | Wipro Technologies | 2021 - Present
+- Designed and developed 15+ responsive web applications using React, Node.js, and MongoDB
+- Built RESTful APIs and GraphQL endpoints serving 50K+ daily active users
+- Implemented CI/CD pipelines using Jenkins and Docker, reducing deployment time by 60%
+- Optimized front-end performance achieving 95+ Lighthouse scores through code splitting and lazy loading
+- Led migration from monolithic architecture to microservices using Docker and Kubernetes
+- Mentored 3 junior developers on best practices in React and TypeScript
+
+Frontend Developer | Cognizant | 2019 - 2021
+- Developed interactive user interfaces using HTML5, CSS3, JavaScript, and React
+- Integrated third-party APIs including payment gateways (Stripe, Razorpay) and maps (Google Maps)
+- Implemented responsive designs using Bootstrap and Tailwind CSS
+- Collaborated with UX designers to translate Figma mockups into pixel-perfect implementations
+
+EDUCATION
+Bachelor of Engineering in Information Technology | Mumbai University | 2019
+
+SKILLS
+Frontend: HTML5, CSS3, JavaScript, TypeScript, React, Angular, Vue.js, Next.js
+Backend: Node.js, Express.js, Django, Flask, REST API, GraphQL
+Databases: MongoDB, PostgreSQL, MySQL, Redis, Firebase
+DevOps: Docker, Kubernetes, Jenkins, CI/CD, Nginx, AWS, Git
+Tools: VS Code, Postman, Figma, Webpack, Sass
+Methodologies: Agile, Scrum, TDD
+Others: Tailwind CSS, Bootstrap, jQuery, Webpack
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect - Associate
+- Meta Front-End Developer Professional Certificate
+
+PROJECTS
+1. E-Commerce Platform - Full-stack MERN application with payment integration and real-time inventory
+2. Social Media Dashboard - React + GraphQL dashboard with real-time analytics and notifications
+3. Task Management App - Vue.js application with drag-and-drop, real-time collaboration using WebSockets

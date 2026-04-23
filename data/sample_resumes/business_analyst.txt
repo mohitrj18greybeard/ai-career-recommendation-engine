@@ -1,0 +1,48 @@
+Sneha Gupta
+Email: sneha.gupta@email.com | Phone: +91-6543210987
+LinkedIn: linkedin.com/in/snehagupta
+
+PROFESSIONAL SUMMARY
+Strategic Business Analyst with 4+ years of experience in requirements gathering, process optimization, and data-driven decision making. Expert in translating complex business needs into actionable technical specifications. Strong communicator with proven ability to bridge the gap between stakeholders and development teams.
+
+EXPERIENCE
+
+Senior Business Analyst | Deloitte Consulting | 2021 - Present
+- Led requirements gathering for 8 enterprise projects valued at $5M+ total
+- Created detailed Business Requirements Documents (BRD) and Functional Specifications (FSD)
+- Conducted stakeholder workshops and facilitated JAD sessions with cross-functional teams
+- Developed data models and process flows using Visio and Lucidchart
+- Performed gap analysis and feasibility studies for system modernization initiatives
+- Built executive dashboards using Tableau and Power BI, tracking 25+ KPIs
+- Implemented Agile/Scrum practices, serving as Product Owner for 2 development teams
+
+Business Analyst | Accenture | 2019 - 2021
+- Analyzed business processes and identified $2M in annual cost savings through automation
+- Created user stories, acceptance criteria, and test scenarios in JIRA
+- Performed data analysis using SQL, Excel, and Python to support strategic decisions
+- Managed UAT (User Acceptance Testing) and coordinated with QA teams
+- Developed training materials and conducted user training sessions for new system rollouts
+
+EDUCATION
+MBA in Business Analytics | IIM Bangalore | 2019
+Bachelor of Commerce | Delhi University | 2017
+
+SKILLS
+Analytics: SQL, Excel, Python, R, Statistical Analysis, A/B Testing
+Visualization: Tableau, Power BI, Looker, Excel Dashboards
+Tools: JIRA, Confluence, MS Visio, Lucidchart, MS Office Suite
+Methodology: Agile, Scrum, Waterfall, Lean Six Sigma
+Business: Requirements Gathering, Gap Analysis, Process Mapping, Stakeholder Management
+Database: SQL Server, Oracle, MySQL
+Soft Skills: Communication, Presentation, Leadership, Negotiation, Problem Solving
+
+CERTIFICATIONS
+- Certified Business Analysis Professional (CBAP)
+- Agile Certified Product Owner (CSPO)
+- Tableau Desktop Specialist
+- Lean Six Sigma Green Belt
+
+PROJECTS
+1. Digital Transformation Program - Led BA workstream for enterprise ERP migration affecting 5000+ users
+2. Customer 360 Analytics Platform - Requirements and KPI framework for unified customer data platform
+3. Process Automation Initiative - Identified and automated 15 manual workflows using RPA (UiPath)

@@ -1,0 +1,54 @@
+Amit Patel
+Email: amit.patel@email.com | Phone: +91-7654321098
+LinkedIn: linkedin.com/in/amitpatel | GitHub: github.com/amitpatel
+
+PROFESSIONAL SUMMARY
+Experienced DevOps Engineer with 5+ years of expertise in cloud infrastructure, automation, and CI/CD pipeline management. Skilled in containerization, infrastructure as code, and monitoring solutions. Dedicated to improving system reliability, reducing downtime, and enabling rapid deployments.
+
+EXPERIENCE
+
+Senior DevOps Engineer | Amazon India | 2021 - Present
+- Managed AWS infrastructure serving 100M+ requests per day across 15 microservices
+- Designed and implemented Kubernetes clusters handling 500+ pods with auto-scaling
+- Built fully automated CI/CD pipelines using Jenkins, GitLab CI, and ArgoCD
+- Implemented infrastructure as code using Terraform and CloudFormation, managing 200+ resources
+- Reduced deployment time from 2 hours to 15 minutes through pipeline optimization
+- Set up comprehensive monitoring using Prometheus, Grafana, and ELK stack
+- Achieved 99.99% uptime SLA through proactive monitoring and incident response
+
+DevOps Engineer | Flipkart | 2019 - 2021
+- Containerized 30+ applications using Docker, creating optimized multi-stage builds
+- Managed configuration automation using Ansible playbooks across 100+ servers
+- Implemented log aggregation and centralized monitoring using ELK stack
+- Automated security scanning and compliance checks in CI/CD pipelines
+
+Systems Administrator | HCL Technologies | 2018 - 2019
+- Managed Linux servers (Ubuntu, CentOS, RHEL) across development and production environments
+- Performed system patching, backup management, and disaster recovery planning
+- Scripted automation tasks using Bash and Python
+
+EDUCATION
+Bachelor of Technology in Computer Science | BITS Pilani | 2018
+
+SKILLS
+Cloud: AWS (EC2, S3, EKS, Lambda, RDS, CloudWatch), Azure, GCP
+Containers: Docker, Kubernetes, Helm, Container Registry
+CI/CD: Jenkins, GitLab CI, ArgoCD, GitHub Actions, CircleCI
+IaC: Terraform, CloudFormation, Ansible, Puppet
+Monitoring: Prometheus, Grafana, ELK Stack, Datadog, New Relic
+Scripting: Python, Bash, Shell Scripting, Go
+Networking: Nginx, HAProxy, Load Balancing, DNS, VPN
+OS: Linux, Ubuntu, CentOS, RHEL, Windows Server
+Version Control: Git, GitHub, GitLab, Bitbucket
+Security: IAM, SSL/TLS, Vault, Security scanning
+
+CERTIFICATIONS
+- AWS Certified DevOps Engineer - Professional
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate
+- Red Hat Certified System Administrator (RHCSA)
+
+PROJECTS
+1. Multi-Region Kubernetes Platform - Designed HA k8s clusters across 3 AWS regions with automated failover
+2. GitOps Pipeline - Implemented ArgoCD-based GitOps workflow for 50+ microservices
+3. Infrastructure Monitoring Suite - Custom Prometheus + Grafana stack with 200+ alert rules

@@ -1,0 +1,46 @@
+Rajesh Kumar
+Email: rajesh.kumar@email.com | Phone: +91-9876543210
+LinkedIn: linkedin.com/in/rajeshkumar | GitHub: github.com/rajeshkumar
+
+PROFESSIONAL SUMMARY
+Results-driven Data Scientist with 4+ years of experience in machine learning, statistical modeling, and data analytics. Passionate about leveraging AI to solve complex business problems. Proven track record of delivering actionable insights through advanced analytics and predictive modeling.
+
+EXPERIENCE
+
+Senior Data Analyst | TCS (Tata Consultancy Services) | 2021 - Present
+- Developed predictive models using Python, scikit-learn, and XGBoost that improved customer retention by 23%
+- Built end-to-end ML pipelines using Apache Spark and Airflow for processing 10M+ records daily
+- Created interactive dashboards using Tableau and Power BI for C-suite executives
+- Implemented NLP-based sentiment analysis on customer feedback data using BERT and Hugging Face transformers
+- Conducted A/B testing and statistical hypothesis testing to validate marketing strategies
+- Reduced data processing time by 40% through optimized SQL queries and data pipeline improvements
+
+Data Analyst | Infosys | 2019 - 2021
+- Performed exploratory data analysis on large datasets using Pandas, NumPy, and Matplotlib
+- Built classification models achieving 92% accuracy for customer segmentation
+- Automated reporting workflows using Python scripts, saving 15 hours per week
+- Collaborated with cross-functional teams to translate business requirements into analytical solutions
+
+EDUCATION
+Master of Science in Data Science | IIT Delhi | 2019
+Bachelor of Technology in Computer Science | NIT Warangal | 2017
+
+SKILLS
+Programming: Python, R, SQL, Java
+ML/AI: Scikit-learn, TensorFlow, PyTorch, XGBoost, Random Forest, Neural Networks
+Data: Pandas, NumPy, Matplotlib, Seaborn, Plotly
+Big Data: Apache Spark, Hadoop, Hive, Kafka
+Tools: Tableau, Power BI, Jupyter Notebook, Git, Docker
+Databases: PostgreSQL, MySQL, MongoDB, Redis
+Cloud: AWS (S3, EC2, SageMaker), GCP (BigQuery)
+NLP: NLTK, spaCy, BERT, Hugging Face, Transformers
+
+CERTIFICATIONS
+- AWS Certified Machine Learning - Specialty
+- Google Data Analytics Professional Certificate
+- Deep Learning Specialization (Coursera - Andrew Ng)
+
+PROJECTS
+1. Customer Churn Prediction System - Built an end-to-end ML system using XGBoost achieving 94% AUC-ROC
+2. Real-time Sentiment Analysis Dashboard - NLP pipeline using BERT for analyzing social media sentiment
+3. Recommendation Engine - Collaborative filtering system for e-commerce product recommendations

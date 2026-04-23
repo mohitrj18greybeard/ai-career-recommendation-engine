@@ -1,0 +1,16 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+pandas
+numpy<2.0.0
+scikit-learn
+nltk
+matplotlib
+seaborn
+plotly
+torch
+sentence-transformers
+pdfplumber
+fpdf2
+wordcloud
+Pillow
+joblib

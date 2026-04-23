@@ -1,0 +1,56 @@
+Vikram Singh
+Email: vikram.singh@email.com | Phone: +91-5432109876
+LinkedIn: linkedin.com/in/vikramsingh | GitHub: github.com/vikramsingh
+
+PROFESSIONAL SUMMARY
+Results-oriented Java Developer with 6+ years of experience in designing and developing scalable enterprise applications. Expert in Spring Boot ecosystem, microservices architecture, and cloud-native development. Strong problem-solving abilities with a focus on writing clean, maintainable, and performant code.
+
+EXPERIENCE
+
+Senior Java Developer | Oracle India | 2021 - Present
+- Designed and developed microservices-based architecture serving 5M+ daily transactions
+- Built RESTful APIs using Spring Boot, Spring Security, and Spring Data JPA
+- Implemented message-driven architecture using Apache Kafka for event streaming
+- Optimized database queries and JPA mappings, reducing API response time by 55%
+- Led code reviews, established coding standards, and mentored team of 5 developers
+- Implemented comprehensive testing strategy using JUnit 5, Mockito, and integration tests
+- Deployed applications on AWS EKS with Docker containerization
+
+Lead Java Developer | Tech Mahindra | 2019 - 2021
+- Developed enterprise Java applications using Spring MVC and Hibernate ORM
+- Built batch processing systems using Spring Batch for processing financial transactions
+- Implemented caching solutions using Redis, improving system performance by 3x
+- Integrated with third-party payment systems (PayPal, Stripe) and banking APIs
+- Managed CI/CD pipelines using Jenkins and Maven for automated builds and deployments
+
+Java Developer | Persistent Systems | 2017 - 2019
+- Developed web applications using Java, JSP, Servlets, and JDBC
+- Created database schemas and stored procedures in Oracle and MySQL
+- Participated in Agile sprints, daily standups, and sprint retrospectives
+- Fixed production bugs and performed root cause analysis
+
+EDUCATION
+Master of Computer Applications (MCA) | Pune University | 2017
+Bachelor of Computer Science | Mumbai University | 2014
+
+SKILLS
+Languages: Java, Python, SQL, JavaScript, Kotlin
+Frameworks: Spring Boot, Spring MVC, Spring Security, Spring Data, Hibernate, JPA
+Build Tools: Maven, Gradle
+Testing: JUnit, Mockito, TestNG, Selenium
+Databases: Oracle, MySQL, PostgreSQL, MongoDB, Redis
+Message Queue: Apache Kafka, RabbitMQ, ActiveMQ
+Cloud & DevOps: AWS (EC2, S3, EKS, Lambda), Docker, Kubernetes, Jenkins, Git
+Architecture: Microservices, REST API, Event-Driven, Domain-Driven Design
+Tools: IntelliJ IDEA, Postman, SonarQube, JIRA, Confluence
+Methodologies: Agile, Scrum, TDD
+
+CERTIFICATIONS
+- Oracle Certified Professional: Java SE 11 Developer
+- AWS Certified Developer - Associate
+- Spring Professional Certification
+
+PROJECTS
+1. Payment Gateway Platform - High-throughput payment processing system handling $10M+ daily
+2. Inventory Management System - Event-driven microservices with Kafka for real-time inventory tracking
+3. Banking API Integration - Secure REST API integration with 5 major banking platforms
