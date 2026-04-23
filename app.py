@@ -268,13 +268,16 @@ st.markdown("""
 def load_embedding_engine():
     """Load the Sentence Transformer model (cached — loads only once)."""
     engine = EmbeddingEngine(use_transformers=True)
-    # Warm up
-    engine.encode("warm up sentence")
     return engine
 
 @st.cache_resource(show_spinner=False)
+def get_db():
+    """Lightweight database loader."""
+    return DatabaseManager()
+
+@st.cache_resource(show_spinner=False)
 def load_components():
-    """Load all ML components."""
+    """Load all ML components (Lazy loaded)."""
     engine = load_embedding_engine()
     text_processor = TextProcessor()
     parser = ResumeParser()
@@ -285,7 +288,7 @@ def load_components():
     improver = ResumeImprover()
     report_gen = ReportGenerator()
     visualizer = Visualizer()
-    db = DatabaseManager()
+    db = get_db()
     return {
         "engine": engine,
         "text_processor": text_processor,
@@ -348,8 +351,8 @@ def render_sidebar():
 
         # Quick stats
         try:
-            components = load_components()
-            analytics = components["db"].get_analytics()
+            db = get_db()
+            analytics = db.get_analytics()
             st.markdown(f"""
             <div class="metric-card" style="margin: 5px 0;">
                 <div class="metric-value" style="font-size: 1.5rem;">{analytics['total_analyses']}</div>
@@ -488,7 +491,8 @@ def render_resume_analyzer():
     st.markdown('<div class="section-header">📄 Resume Analyzer</div>', unsafe_allow_html=True)
     st.markdown("Upload your resume or paste text to get comprehensive NLP-powered analysis.")
 
-    components = load_components()
+    with st.spinner("🧠 Loading AI Intelligence..."):
+        components = load_components()
 
     # Input section
     col1, col2 = st.columns([2, 1])
@@ -959,7 +963,8 @@ def render_job_recommender():
         results = st.session_state["analysis_results"]
         recommendations = results.get("recommendations", [])
         skills = results.get("skills", [])
-        viz = load_components()["visualizer"]
+        with st.spinner("🧠 Loading AI Intelligence..."):
+            viz = load_components()["visualizer"]
 
         if recommendations:
             st.success(f"Showing recommendations based on your last analysis ({len([s for s in skills])} skills detected)")
@@ -980,7 +985,8 @@ def render_resume_vs_job():
     st.markdown('<div class="section-header">🔍 Resume vs Job Description</div>', unsafe_allow_html=True)
     st.markdown("Compare your resume directly against a specific job description.")
 
-    components = load_components()
+    with st.spinner("🧠 Loading AI Intelligence..."):
+        components = load_components()
 
     col1, col2 = st.columns(2)
 
@@ -1095,7 +1101,8 @@ def render_skill_gap_improve():
         results = st.session_state["analysis_results"]
         gap_analysis = results.get("gap_analysis", {})
         improvement = results.get("improvement", {})
-        viz = load_components()["visualizer"]
+        with st.spinner("🧠 Loading AI Intelligence..."):
+            viz = load_components()["visualizer"]
 
         tab1, tab2 = st.tabs(["📊 Skill Gap Analysis", "💡 Resume Improvement"])
 
@@ -1132,7 +1139,8 @@ def render_export_history():
     """Render export and history page."""
     st.markdown('<div class="section-header">📥 Export & History</div>', unsafe_allow_html=True)
 
-    components = load_components()
+    with st.spinner("🧠 Loading AI Intelligence..."):
+        components = load_components()
 
     tab1, tab2 = st.tabs(["📥 PDF Export", "📜 Analysis History"])
 
@@ -1204,11 +1212,7 @@ def render_export_history():
 
 def main():
     """Main application entry point."""
-    # Load components on startup
-    with st.spinner("🧠 Loading AI models..."):
-        load_components()
-
-    # Sidebar navigation
+    # Sidebar navigation (Lightweight)
     page = render_sidebar()
 
     # Page routing
@@ -1249,7 +1253,8 @@ def render_market_insights():
     st.markdown('<div class="section-header">🌍 Global Market Insights</div>', unsafe_allow_html=True)
     st.markdown("Explore aggregate trends across the entire resume database to identify high-demand skills and popular career paths.")
 
-    db = load_components()["db"]
+    with st.spinner("🧠 Loading AI Intelligence..."):
+        db = load_components()["db"]
     analytics = db.get_analytics()
     top_skills = db.get_top_skills(15)
 
