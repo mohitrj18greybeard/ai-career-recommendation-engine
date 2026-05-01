@@ -1,4 +1,4 @@
-# 🧠 [AI Resume Analyzer →](https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/)
+# 🧠 [AI Resume Analyzer →](https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/) NLP-Powered Intelligence
 
 ![AI Resume Analyzer Hero Banner](./assets/images/hero_banner.png)
 
