@@ -46,9 +46,6 @@ graph TD
 
 ## 📸 Dashboard Showcase
 
-> [!NOTE]
-> The dashboard features a **Premium Glassmorphism Dark Theme**. High-fidelity screenshots of each section are currently being processed to match the project's elite aesthetic.
-
 | Feature | Description |
 | :--- | :--- |
 | **01. Intelligence Dashboard** | High-level overview of resume stats and AI readiness scores. |
