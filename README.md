@@ -9,11 +9,8 @@ This project was built to exceed 99.9% of portfolio standards, focusing on high-
 ---
 
 ### Cloud
-The app is live at: **[AI Resume Analyzer →]([https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/])**
+The app is live at: **[AI Resume Analyzer →](https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/)**
 
-
-### Cloud
-The app is live at: **[FraudShield AI →](https://fraud-detection-ml-pipeline-y3htsbzzxgdwue2ar2fx6h.streamlit.app/)**
 
 ---
 
