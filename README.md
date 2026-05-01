@@ -1,4 +1,4 @@
-# 🧠 AI Resume Analyzer & Job Recommendation System
+# 🧠 *[AI Resume Analyzer →](https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/)
 
 ![AI Resume Analyzer Hero Banner](./assets/images/hero_banner.png)
 
@@ -6,12 +6,6 @@
 **AI Resume Analyzer** is a production-grade, elite-level NLP system designed to revolutionize the HR tech space. Built with **BERT-based semantic embeddings** and an **explainable AI** recommendation engine, this system doesn't just match keywords—it understands the context, intent, and career trajectory of professional profiles.
 
 This project was built to exceed 99.9% of portfolio standards, focusing on high-performance model throughput, modular architecture, and extreme UX/UI polish.
----
-
-### Cloud
-The app is live at: **[AI Resume Analyzer →](https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/)**
-
-
 ---
 
 ## 🛠️ High-Level Architecture
@@ -95,11 +89,23 @@ graph TD
    streamlit run app.py
    ```
 
+## 👤 Author
+
+**Mohit**
+
+- GitHub: [@mohitrj18greybeard](https://github.com/mohitrj18greybeard)
+
 ---
 
+
 ## 📜 License
+
 Distribute under the MIT License. See `LICENSE` for more information.
 
 ---
 
-**Built to redefine recruitment intelligence.**
+<p align="center">
+  <strong>⭐ If you found this project useful, please give it a star!</strong><br/>
+  <em>Built with ❤️ </em>
+</p>
+
