@@ -7,6 +7,9 @@
 
 This project was built to exceed 99.9% of portfolio standards, focusing on high-performance model throughput, modular architecture, and extreme UX/UI polish.
 
+> **Live Demo:** [AI Resume Analyzeron Streamlit Cloud →]([https://ai-career-recommendation-engine-gppm7y6wjujqwcghvmmn9g.streamlit.app/])
+
+
 ---
 
 ## 🛠️ High-Level Architecture
